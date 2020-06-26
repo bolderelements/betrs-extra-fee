@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: hystericallyme
 Donate link: http://bolderelements.net/
-Tags: woocommerce, shipping, flat fee
+Tags: woocommerce, shipping, flat fee, percentage, per
 Requires at least: 4.8
 Tested up to: 5.2
 Stable tag: 1.0
@@ -18,9 +18,9 @@ This extension adds a new settings field to the right of the table in your Table
 
 <h4>Minimum Requirements</h4>
 
-* WooCommerce 3.0 or greater
+* WooCommerce 3.4 or greater
 * WordPress 4.8 or greater
-* PHP version 5.5 or greater
+* PHP version 5.6 or greater
 * MySQL version 5.0 or greater
 
 <h4>Installation through FTP</h4>
